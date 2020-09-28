@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Twitter - Part I
 
-**Name of your app** is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
 Time spent: **X** hours spent in total
 
@@ -23,5 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='http://g.recordit.co/A1WLh46Hoo.gif' />
